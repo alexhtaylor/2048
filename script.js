@@ -136,3 +136,5 @@ function canMove(cells) {
     })
   })
 }
+
+console.log("2048")
